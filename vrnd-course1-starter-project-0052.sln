@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-course1-starter-project-0052", "vrnd-course1-starter-project-0052.csproj", "{65810720-47DD-67EB-169D-4E3A47F55ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-course1-starter-project-0052.Editor", "vrnd-course1-starter-project-0052.Editor.csproj", "{01026AF1-960B-0AE6-5407-295CB8CABAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65810720-47DD-67EB-169D-4E3A47F55ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65810720-47DD-67EB-169D-4E3A47F55ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65810720-47DD-67EB-169D-4E3A47F55ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65810720-47DD-67EB-169D-4E3A47F55ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01026AF1-960B-0AE6-5407-295CB8CABAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01026AF1-960B-0AE6-5407-295CB8CABAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01026AF1-960B-0AE6-5407-295CB8CABAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01026AF1-960B-0AE6-5407-295CB8CABAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
